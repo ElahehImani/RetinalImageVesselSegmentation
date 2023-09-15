@@ -1,4 +1,4 @@
-# RetinalVesselSegmentation
+# Retinal Image Vessel Segmentation Using Signal Separation Algorithm
 This repository contains the source code of the following paper:
 
 Imani, E., Javidi, M., & Pourreza, H. R. (2015). Improvement of retinal blood vessel detection using morphological component analysis. 
